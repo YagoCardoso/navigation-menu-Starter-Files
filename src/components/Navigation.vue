@@ -32,7 +32,7 @@
             <router-link class="link" :to="{ name: 'Home' }">Home2</router-link>
           </li>
           <li>
-            <router-link class="link" :to="{ name: 'Home' }">Home</router-link>
+            <router-link class="link" :to="{ name: 'Home' }">Home3</router-link>
           </li>
         </ul>
       </transition>
